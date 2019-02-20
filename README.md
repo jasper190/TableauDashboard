@@ -1,5 +1,5 @@
 # TableauDashboard
-Market Analysis in Tableau , Exploratory study on the markets where various products are successful in, as well as the products that we might want to discontinue or innovate upon
+Market Analysis in Tableau , Exploratory study on the markets, products, and possible segments to explore
 
 
 
